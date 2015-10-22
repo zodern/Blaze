@@ -9,18 +9,18 @@
 - Explain benefits of reactivity
 
 ## Getting Started Tutorial
-- Meteor has a good tutorial. Would blaze need one of it's own?
+- Create an advance blaze tutorial using https://github.com/meteor/tutorials.
 
 ## Guides
 - Explain basic concepts of templates
+- This website might eventually get converted into a guide article for the Meteor Guide. It is okay if there is overlap right now.
 
-The Meteor Guide will have some sections on Blaze. Should they be linked to here or could we pull them into this website?
 What should we have in addition to the guides the Meteor Guide has?
 
 ## Docs
+- Documentation on using [space bars] (https://github.com/meteor/meteor/blob/devel/packages/spacebars/README.md)
 
-Should it be a link to http://docs.meteor.com/#/full/templates_api ? 
-There also is the documentation for space bars stuck in https://github.com/meteor/meteor/blob/devel/packages/spacebars/README.md
+Should it have a link to http://docs.meteor.com/#/full/templates_api ? 
 
 ## Examples
-- 
+Simple examples that demonstrate a feature of blaze.

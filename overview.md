@@ -23,4 +23,4 @@ What should we have in addition to the guides the Meteor Guide has?
 Should it have a link to http://docs.meteor.com/#/full/templates_api ? 
 
 ## Examples
-Simple examples that demonstrate a feature of blaze.
+Simple examples that each demonstrate one feature of blaze or how multiple featurs work together.
